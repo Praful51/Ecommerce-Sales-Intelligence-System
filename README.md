@@ -133,6 +133,12 @@ Increase marketing investment and campaign optimization efforts on high-performi
 Business Recommendation:
 Conduct deeper root-cause analysis on returns in the affected region by reviewing delivery performance, product quality, and customer feedback to reduce return-related losses and improve customer satisfaction.
 
+**Power BI Dashboard**
+
+![db1](image/ecom_db1.png)
+
+![db2](image/ecom_db2.png)
+
 
 **Machine Learning Model**
 
