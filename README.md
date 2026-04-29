@@ -85,7 +85,7 @@ Orders **without** discount generated higher average revenue than orders **with*
 **Insights & Recommendations**
 
 1. Product Category Performance
-[Category X] generated the highest average revenue at ₹[value], significantly outperforming [Category Y], which recorded the lowest average revenue contribution. This indicates strong customer demand and higher monetization potential within premium-performing categories.
+Sports & Beauty category generated the highest average revenue at 6507795.06 & 6424946.22 respectively outperforming other categories. This indicates strong customer demand and higher monetization potential within premium-performing categories.
 
 ![category](image/rev_by_cat.png)
 
@@ -93,7 +93,7 @@ Business Recommendation:
 Increase inventory allocation, targeted promotions, and cross-selling strategies for high-performing categories while reassessing pricing, assortment, or marketing strategy for underperforming categories.
 
 2. Customer Segment Contribution
-Loyal customers generated approximately ₹[value] higher average revenue compared to New customers, highlighting the strong lifetime value and purchasing power of retained customers.
+Loyal customers generated approximately ₹12075099.96 higher revenue and average revenue of 8076.99 compared to New & Returning customers, highlighting the strong lifetime value and purchasing power of retained customers.
 
 ![cust_segment](image/cust_segment.png)
 
@@ -101,7 +101,7 @@ Business Recommendation:
 Strengthen customer retention initiatives such as loyalty programs, personalized offers, and membership benefits to maximize repeat purchases and long-term revenue growth.
 
 3. Seasonal Revenue Trends
-Revenue peaked during Q[X], indicating clear seasonal purchasing behavior and periods of heightened customer demand across the business cycle.
+Revenue peaked during month 6 & 10 indicating a seasonal purchasing behavior and periods of heightened customer demand across the business cycle.
 
 ![trend](image/monthly_rev_trend.png)
 
@@ -117,7 +117,7 @@ Business Recommendation:
 Implement targeted discount strategies focused on high-conversion customer groups while monitoring profitability to balance revenue growth with margin sustainability.
 
 5. Marketing Channel Effectiveness
-[Channel X] achieved the highest purchase conversion rate at [value]%, indicating superior effectiveness in driving customer engagement and completed purchases.
+Email achieved the highest purchase conversion rate at 55.89 %, indicating superior effectiveness in driving customer engagement and completed purchases.
 
 ![channel](image/marketing_channel.png)
 
@@ -125,7 +125,7 @@ Business Recommendation:
 Increase marketing investment and campaign optimization efforts on high-performing acquisition channels while evaluating ROI improvements for lower-performing channels.
 
 6. Regional Return Analysis
-[Region X] recorded the highest return rate at [value]%, suggesting potential operational, product-quality, or customer expectation issues within that market.
+Region East recorded the highest return rate at 7.86 %, suggesting potential operational, product-quality, or customer expectation issues within that market.
 
 ![region](image/return_region.png)
 
