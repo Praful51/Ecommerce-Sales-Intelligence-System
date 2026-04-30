@@ -74,12 +74,12 @@ This is validated by the average revenue per segment & can be clearly seen that 
 
 **Interpretation:**
 Statistical evidence confirms that applying a discount significantly affects revenue.
-Orders **without** discount generated higher average revenue than orders **with** discount:
+Orders **with** discount generated higher average revenue than orders **without** discount:
 
 | Group | Avg Revenue |
 |---|---|
-| No Discount Applied | ₹9,465 |
-| Discount Applied | ₹7,764 |
+| No Discount Applied | ₹4875 |
+| Discount Applied | ₹6699|
 
 **Insights & Recommendations**
 
